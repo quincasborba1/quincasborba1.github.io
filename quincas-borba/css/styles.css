@@ -1,5 +1,5 @@
 body {
-    background: url("/imagens/fundo-01.jpg");
+    background: url("imagens/fundo-01.jpg");
 }
 
 div {
@@ -46,4 +46,5 @@ div {
     font-size: 80px;
     font-weight: bold;
 }
+
 
